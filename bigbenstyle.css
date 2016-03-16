@@ -1,0 +1,37 @@
+body {
+	background-image:url("http://summer.bghcdn.ogqcorp.com/image/1937/1280");
+	background-size:cover;
+	background-position: center;
+	background-repeat:no-repeat;
+}
+
+h1 {
+	font-family:'Alegreya';
+	text-align: center;
+	font-size: 56px;
+	color:#ff5c33;
+
+}
+
+h3 {
+	text-align: center;
+	font-size: 24px;
+	color:#ffff80;
+}
+
+p {
+	text-align:center;
+	font-family:'Arial';
+	font-size: 16px;
+	color:white;
+}
+
+img {
+	width:466px;
+	height:235px;
+	margin-left: 440px;
+}
+#footer {
+	font-size:11px;
+	color:#595959;
+}
